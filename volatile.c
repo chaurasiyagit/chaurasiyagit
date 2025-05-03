@@ -1,8 +1,8 @@
-#⚡ Bitwise Operators and Volatile in Embedded C 
+⚡ Bitwise Operators and Volatile in Embedded C ?
 
 📢 Volatile “Don’t optimize this variable—it might change outside the program’s control (like by hardware). Always read it from memory.”
 
-📻 What are Hardware Registers:
+📻 What are Hardware Registers: 
 Control Registers: Configure operation modes (e.g., enable/disable, interrupt settings).
 Status Registers: Show current status (e.g., flags, errors).
 Data Registers: Used to read or write data (e.g., transmit or receive buffers).
